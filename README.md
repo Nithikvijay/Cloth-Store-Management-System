@@ -1,8 +1,7 @@
-# Cloth Store Management Project
+# Cloth Store Management System
 
 This project is a cloth store management system developed using Python, MySQL, and Tkinter. It provides a user-friendly interface for managing customer data, product information, stock inventory, and billing operations. The project integrates with a MySQL database in MySQL Workbench to store and retrieve data efficiently.
 
-#
 ## Technologies Used
 
 - Python: Programming language used for developing the project.
